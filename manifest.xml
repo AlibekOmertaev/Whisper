@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
+<OfficeApp xmlns="https://schemas.microsoft.com/office/appforoffice/1.1"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:type="TaskPaneApp">
   <Id>WhisperWordAddin</Id>
@@ -7,8 +7,8 @@
   <ProviderName>Whisper AI</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName>Whisper Dictation</DisplayName>
-  <Description>Распознавание речи с Whisper API</Description>
-  <IconUrl>https://example.com/icon.png</IconUrl>
+  <Description>Speech recognition with Whisper API</Description>
+  <IconUrl>https://alibekomertaev.github.io/Whisper/icon.png</IconUrl>
   <Hosts>
     <Host Name="Word"/>
   </Hosts>
