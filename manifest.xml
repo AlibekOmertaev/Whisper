@@ -13,6 +13,6 @@
     <Host Name="Word"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://твоя_ссылка/index.html"/>
+    <SourceLocation DefaultValue="https://alibekomertaev.github.io/Whisper/index.html"/>
   </DefaultSettings>
 </OfficeApp>
